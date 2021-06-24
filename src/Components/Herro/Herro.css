@@ -1,0 +1,26 @@
+.Herro{
+    padding: 150px 0;
+    background: url('../../Image/background-image.jpg') ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.Herro h1{
+    font-size: 5rem;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 0 0 2px rgba(255,255,255,0.5);   
+}
+.Herro p{
+    margin: 20px 0 40px;
+    font-size: 25px;
+    color: #fff;
+    line-height: 1.2;
+}
+.Herro .btn-1{
+    background-color: #e84545;
+    color: #fff;
+    padding: 5px 20px;
+    font-size: 18px;
+}

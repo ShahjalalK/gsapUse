@@ -1,2 +1,2 @@
-export {default as Navbar} from './Navbar/Navbar'
-export {default as Dashbord} from './Dashbord/Dashbord'
+export {default as Navigation} from './Navigation/Navigation'
+export {default as Herro} from './Herro/Herro'
